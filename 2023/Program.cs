@@ -15,3 +15,8 @@ Console.WriteLine("Day 3 test 1: " + Day3.Solve1("./input/day3-test.txt"));
 Console.WriteLine("Day 3 part 1: " + Day3.Solve1("./input/day3.txt"));
 Console.WriteLine("Day 3 test 2: " + Day3.Solve2("./input/day3-test.txt"));
 Console.WriteLine("Day 3 part 2: " + Day3.Solve2("./input/day3.txt"));
+
+Console.WriteLine("Day 4 test 1: " + Day4.Solve1("./input/day4-test1.txt"));
+Console.WriteLine("Day 4 part 1: " + Day4.Solve1("./input/day4.txt"));
+Console.WriteLine("Day 4 test 2: " + Day4.Solve2("./input/day4-test2.txt"));
+Console.WriteLine("Day 4 part 2: " + Day4.Solve2("./input/day4.txt"));
